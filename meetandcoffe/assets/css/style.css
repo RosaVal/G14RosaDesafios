@@ -145,18 +145,36 @@ body {
     footer i {
         margin: 0 0.25em 0.5em 0.25em;
     }
+
     .center {
     text-align: justify;
     color: #000f08;
-    margin: 0;
+    margin: 20em;
     font-family: 'Open Sans';
     }
 
     .main-margin {
         text-align: justify;
+        margin: 0px 120px;
+        font-weight: 400;     
+        font-size: 1.15em;
+        padding: 4rem;
     }
     
     main p, .margin-tit  {
-        margin: 20px 200px;
+        margin: 30px 90px;
+        width: 75%;
+        margin-top: 1em;
     }
+
+    .margin-tit  {
+        font-weight: 800; 
+    }
+
+    .centrado-h2 {
+        padding: 30px 90px;
+        text-align: justify;
+        font-weight: 800; 
+    }
+  
     
