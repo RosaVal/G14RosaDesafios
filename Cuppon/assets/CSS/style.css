@@ -1,0 +1,102 @@
+
+body * {
+    font-family: 'Roboto';
+}
+
+.height {
+    height: 25px;
+}
+
+.card-text {
+    font-size: 20px;
+    color: #212529;
+    text-align: left;
+    border-bottom-style: solid;
+    border-bottom-color: #707070A0;
+    border-bottom-width: 0.3px;
+}
+
+.dire1 {
+    font-size: 16px;
+    color: #707070;
+ 
+}
+
+
+.dire2 {
+    font-size: 13px;
+    color: #707070;
+}
+
+
+.card-link1 {
+    font-size: 16px;
+    color: #707070;
+
+}
+
+.card-link2 {
+    font-size: 20px;
+    color: #28A745;
+}
+
+.oscuro {
+    background-color: #ffffff;
+    color: #707070;
+    font-size: 16px;
+    text-align: center;
+}
+
+.formu {
+    color: #ffffff;
+    font-size: 21px;
+
+}
+
+.form-control {
+    color: #707070;
+    background-color: #ffffff;
+    border: #DDDDDD;
+    height: 40px;
+}
+
+.fa-2 {
+    font-size: 13px;
+    color: #707070;
+    
+}
+
+.btn {
+    width:  100px;
+    border: #DDDDDD;
+    color: #F8F9FA;
+    height: 40px;
+}
+
+
+.logo2 {
+    height: 24px;
+}
+
+.contact-button-inner {
+    color: #212529;
+}
+
+
+
+@media (min-width: 576px) {
+
+}
+
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) { 
+
+}
+
+@media (min-width: 1200px) { 
+
+}
