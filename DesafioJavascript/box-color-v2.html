@@ -1,0 +1,56 @@
+<!-- menu-top.html -->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Desafio 5 </title>
+
+    <style>
+        #box {
+            width: 170px;
+            height: 170px;
+            background-color: green;
+        }
+    </style>
+
+</head>
+
+<body id="body">
+    <div id="box"></div>
+    <button id="boton1"> 400x400</button>
+    <button id="boton2"> 100x100 </button>
+
+    
+    <script>
+
+        var caja = document.getElementById ("box");
+        var boton1 = document.getElementById('boton1');
+        var boton2 = document.getElementById('boton2');
+
+        
+        boton1.addEventListener ('click', function() {
+            dimension1("400x400");
+        });
+
+        boton2.addEventListener ('click', function() {
+            dimension2("100x100");
+        });
+
+        function dimension1 () {
+            caja.style.width = "400px";
+            caja.style.height = "400px";
+        }
+
+        function dimension2 () {
+            caja.style.width = "100px";
+            caja.style.height = "100px";
+        }
+
+    </script>
+
+</body>
+
+</html> 
+
