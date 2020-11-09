@@ -1,0 +1,84 @@
+.body {
+  font-family: "Cabin", sans-serif;
+}
+
+.nav-titulo {
+  font-family: "Lobster", cursive;
+  font-size: 35px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.btn-outline-secondary {
+  font-family: "Cabin", sans-serif;
+  font-size: 16px;
+}
+
+
+.height2 {
+  text-align: center;
+  max-width: 100%;
+}
+
+.titulo {
+  font-size: 50px;
+  font-family: "Cabin", sans-serif;
+}
+
+.tiempo {
+  font-size: 25px;
+  font-family: "Cabin", sans-serif;
+}
+
+.carousel-indicators {
+  top: 190px;
+}
+
+.carousel-indicators li {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #000000;
+}      
+
+.ingre {
+  font-family: "Cabin", sans-serif;
+}
+
+.subra {
+  text-decoration: underline;
+}
+
+.rojo {
+  color: red;
+}
+
+.nues {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: "Cabin", sans-serif;
+}
+
+.segu {
+  color: #ffffff;
+  font-size: 23px;
+  font-family: "Cabin", sans-serif;
+}
+
+.recetas {
+  font-family: "Cabin", sans-serif;
+}
+
+.card-title {
+  font-size: 26px;
+  font-family: "Cabin", sans-serif;
+}
+
+.btn-outline-light {
+  font-size: 18px;
+  font-family: "Cabin", sans-serif;
+}
+
+.text1 {
+  font-size: 20px;
+}
